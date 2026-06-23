@@ -39,3 +39,7 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Videos / screen recordings
+*.webm
+BookLibraryVideo.webm
